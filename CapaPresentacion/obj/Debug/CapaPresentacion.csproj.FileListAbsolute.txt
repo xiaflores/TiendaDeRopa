@@ -1,0 +1,92 @@
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrenda.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Ingreso.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Venta.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrenda.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Ingreso.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Venta.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportefactura.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePrenadas.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteTrabajador.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFCliente.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFProveedores.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFIngreso.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFVentas.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaControlador.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrenda.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteTrabajador.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Ingreso.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaPrenda_Venta.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportefactura.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFCliente.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFProveedores.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFIngreso.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFVentas.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePrenadas.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrendaDatos.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.MDIParent1.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipalSlide.resources

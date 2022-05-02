@@ -1,0 +1,7 @@
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\bin\Release\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\bin\Release\CapaControlador.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\bin\Release\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\bin\Release\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\obj\Release\CapaControlador.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\obj\Release\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaControlador\obj\Release\CapaControlador.pdb

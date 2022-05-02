@@ -1,0 +1,53 @@
+c:\users\hp240\documents\visual studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe.config
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Form1.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Properties.Resources.resources
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csproj.GenerateResource.Cache
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.exe
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe.config
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.exe
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Form1.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Properties.Resources.resources
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csproj.GenerateResource.Cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe.manifest
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.application
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.exe.manifest
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.application
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe.config
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe.manifest
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.application
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.exe
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\Proyecto_Diseño_Sistemas.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaPresentacion.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaControlador.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Form1.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.Properties.Resources.resources
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.csproj.GenerateResource.Cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.exe.manifest
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.application
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.exe
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\Proyecto_Diseño_Sistemas\obj\Debug\Proyecto_Diseño_Sistemas.pdb

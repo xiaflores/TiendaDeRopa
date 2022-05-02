@@ -1,0 +1,6 @@
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Release\CapaDatos.dll.config
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Release\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Release\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Release\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Release\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache

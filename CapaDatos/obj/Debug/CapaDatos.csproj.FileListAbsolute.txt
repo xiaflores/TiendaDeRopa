@@ -1,0 +1,21 @@
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HP240\Documents\Visual Studio 2013\Projects\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\RdlCompile.cache
+D:\carrera\Diseño de Siatemas\PROYECTO\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\RdlCompile.compiled
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\RdlCompile.cache
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\RdlCompile.compiled
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\carrera\Diseño de Siatemas\Codigo Funte\Proyecto_Diseño_Sistemas\CapaDatos\obj\Debug\CapaDatos.pdb
